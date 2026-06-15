@@ -6,9 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
-  <img src="https://img.shields.io/github/license/user/repo?color=blue" alt="License: MIT">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs Welcome">
-  <img src="https://img.shields.io/github/stars/user/repo?style=social" alt="GitHub Stars">
 </p>
 
 ---
