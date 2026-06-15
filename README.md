@@ -24,10 +24,15 @@
 ## Key Features
 
 ✨ **Procedural Terrain Generation**: Explore endlessly unique worlds with perlin noise-based terrain generation, creating varied landscapes on the fly.
+
 🚀 **Optimized Voxel Rendering**: Experience smooth performance with efficient chunk-based rendering and frustum culling, ensuring only visible voxels are drawn.
+
 🚶 **Intuitive Player Controller**: Navigate the 3D environment with a responsive first-person camera and robust player movement mechanics, including jumping and gravity.
+
 🔨 **Interactive World Manipulation**: Dynamically modify the world by placing and destroying blocks, offering a core creative gameplay loop.
+
 ⚙️ **Configurable Game Settings**: Tailor the game experience to your preferences with easily adjustable parameters for graphics, controls, and world generation.
+
 📦 **Modular Architecture**: A clean and organized codebase separates concerns, making it easy to understand, debug, and extend individual components.
 
 ---
